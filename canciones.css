@@ -1,0 +1,33 @@
+body{
+font-style:monospace;
+color: white ;
+background-color: black;
+}
+
+.titulo1{
+color: red;
+font-style: italic;
+font-size: large;
+
+}
+.titulo2{
+color: blue;
+font-style: inherit;
+font-size: 20px;
+
+}
+.titulo3{
+color: blue;
+font-style: inherit;
+font-size: 20px;
+}
+#parrafo-especial{
+color: green;
+font-style: arial;
+font-size: 30px;
+
+}
+
+img{
+    width: 330px;
+}
